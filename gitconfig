@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = hugo.ferrand98@audencia.com
+	name = Hugo Ferrand
